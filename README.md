@@ -6,4 +6,4 @@
 Лол кек чебурек
 
 # Просто статистика
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRB-Exe)](https://github.com/anuraghazra/github-readme-sta
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRB-Exe)](https://github.com/anuraghazra/github-readme-stats)
