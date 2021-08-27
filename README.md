@@ -10,5 +10,5 @@ Discord: trb.exe#4200
 
 ![TRB-Exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRB-Exe&theme=vue-dark&show_icons=true)
 # 
-![Join](http://whiteless-community.ga)
+![Join Discord Server](http://whiteless-community.ga)
 ![Discovod server](https://media.discordapp.net/attachments/877243020624396308/880905589134331944/20210827_230348.png)
