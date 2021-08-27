@@ -17,5 +17,4 @@ Discord: trb.exe#4200
 [Join Discord Server](http://whiteless-community.ga)
 ![Discovod server](https://media.discordapp.net/attachments/877243020624396308/880905589134331944/20210827_230348.png)
 
-#
-[![Discovod servak](https://media.discordapp.net/attachments/877243020624396308/880905589134331944/20210827_230348.png](https://discord.gg/cqn6vJdptr)
+
