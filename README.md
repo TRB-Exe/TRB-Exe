@@ -10,7 +10,7 @@ Discord: trb.exe#4200
 
 ![TRB-Exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRB-Exe&theme=vue-dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRB-Exe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRB-Exe&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 
