@@ -9,4 +9,4 @@ Discord: trb.exe#4200
 
 
 # Просто статистика
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRB-Exe&theme=vue-dark&show_icons=true)
+![TRB-Exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRB-Exe&theme=vue-dark&show_icons=true)
