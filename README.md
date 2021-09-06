@@ -8,9 +8,9 @@ Discord: trb.exe#4200
 Лол кек чебурек
 
 
-![TRB-Exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRB-Exe&theme=vue-dark&show_icons=true)
+![TRB-Exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRB-Exe&theme=discord_old_blurple&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRB-Exe&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRB-Exe&layout=compact&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 
