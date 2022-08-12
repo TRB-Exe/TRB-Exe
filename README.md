@@ -1,4 +1,4 @@
-пишу всякое говно. изучаю js и другое.
+Ultra sh*tcode stealer!!!!!!!!
 
 ![TRB-Exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRB-Exe&theme=discord_old_blurple&show_icons=true)
 
