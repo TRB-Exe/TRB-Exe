@@ -3,7 +3,7 @@ Ultra sh*tcode stealer!!!!!!!!
 <center><a href="https://trbexe.ml/discord" title="Discord">
    <img src="https://trbexe.ml/content/discordicon.svg" wight="60" height="60" alt="Discord"</img>
    </a>
-<center><a href="https://trbexe.ml/discord" title="Mastodon.ml">
+<center><a href="https://mastodon.ml/@texe" title="Mastodon.ml">
    <img src="https://www.svgrepo.com/show/331480/mastodon.svg" wight="60" height="60" alt="mastodon.ml"</img>
    </a>
        <a href="https://youtube.com/c/ThisIsTRB" title="Youtube">
