@@ -22,11 +22,11 @@ Ultra sh*tcode stealer!!!!!!!!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRB-Exe&layout=compact&theme=discord_old_blurple)](https://github-readme-stats.vercel.app/api/top-langs/?username=TRB-Exe&layout=compact&theme=discord_old_blurple)
 
 <footer>
-<p>© 2022 trb.exe</p>
+<p>© 2023 trb.exe</p>
 <a href="http://trbexe.ml">
 	<img src="http://trbdotexe.neonarod.com/banner.gif" wight="88" height="31" alt="сайт trb.exe">
         </a>
-	<a href="https://adrod.texe.ml">📞📞📞 adrod 13 installer</a>
+	<a href="https://adrod.trbexe.ml">📞📞📞 adrod 13 installer</a>
 </footer>
 
 <!--
