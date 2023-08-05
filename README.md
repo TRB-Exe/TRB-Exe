@@ -1,5 +1,5 @@
 Ultra sh*tcode stealer!!!!!!!!
-
+<p>R.I.P trbexe.ml domain 2021 — 2023</p>
 <center><a href="https://trbexe.ml/discord" title="Discord">
    <img src="https://trbexe.ml/content/discordicon.svg" wight="60" height="60" alt="Discord"</img>
    </a>
