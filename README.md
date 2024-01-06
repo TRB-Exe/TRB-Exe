@@ -1,4 +1,5 @@
 Ultra sh*tcode stealer!!!!!!!!
+
 <p>R.I.P trbexe.ml domain 2021 — 2023</p>
 <center><a href="https://trbexe.ml/discord" title="Discord">
    <img src="https://trbexe.us.to/content/discordicon.svg" wight="60" height="60" alt="Discord"</img>
@@ -22,9 +23,9 @@ Ultra sh*tcode stealer!!!!!!!!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRB-Exe&layout=compact&theme=discord_old_blurple)](https://github-readme-stats.vercel.app/api/top-langs/?username=TRB-Exe&layout=compact&theme=discord_old_blurple)
 
 <footer>
-<p><em>© 2023 trb.exe
-<a href="http://trbexe.us.to">
-	<img src="http://trbdotexe.neonarod.com/banner.gif" wight="88" height="31" alt="сайт trb.exe">
+<p><em>© 2024 trb.exe
+<a href="http://trbexe.000.pe">
+	<img src="http://trbexe.000.pe/amogus/trbexe-banner.gif" wight="88" height="31" alt="сайт trb.exe">
         </a>
 </em></p>
 </footer>
