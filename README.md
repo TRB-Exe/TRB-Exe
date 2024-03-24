@@ -1,21 +1,21 @@
-Ultra sh*tcode stealer!!!!!!!!
-
+com.trbexe.description()
+<a href="https://trbexe.000.pe">trbexe.000.pe</a>
 <p>R.I.P trbexe.ml domain 2021 — 2023</p>
-<center><a href="https://trbexe.ml/discord" title="Discord">
-   <img src="https://trbexe.000.pe/content/discordicon.svg" wight="60" height="60" alt="Discord"</img>
+<center><a href="https://trbexe.pages.dev/discord" title="Discord">
+   <img src="https://trbexe.pages.dev/content/discordicon.svg" wight="60" height="60" alt="Discord"</img>
    </a>
 <!--- <center><a href="https://mastodon.ml/@texe" title="Mastodon.ml">
    <img src="https://www.svgrepo.com/show/331480/mastodon.svg" wight="60" height="60" alt="mastodon.ml"</img>
    </a>
 	-->
        <a href="https://youtube.com/c/ThisIsTRB" title="Youtube">
-   <img src="https://trbexe.000.pe/content/yticon2.svg" wight="60" height="60" alt="YouTube"</img>
+   <img src="https://trbexe.pages.dev/content/yticon2.svg" wight="60" height="60" alt="YouTube"</img>
    </a>
       <a href="https://t.me/pentiumn4200" title="Telegram">
-   <img src="https://trbexe.000.pe/content/telega.svg" wight="60" height="60" alt="Telegram"</img>
+   <img src="https://trbexe.pages.dev/content/telega.svg" wight="60" height="60" alt="Telegram"</img>
    </a>
        <a href="https://steamcommunity.com/id/thisistrb/" title="steam">
-   <img src="https://trbexe.000.pe/content/steam.svg" wight="60" height="60" alt="steam"</img>
+   <img src="https://trbexe.pages.dev/content/steam.svg" wight="60" height="60" alt="steam"</img>
    </a>
 	</center>
 
